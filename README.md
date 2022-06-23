@@ -15,3 +15,8 @@ Asienta las bases para convertirte en el Data Scientist del futuro con todo el c
 9. Clustering
 
 Y todo con más de 40 horas de vídeo a demanda, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
+
+
+## Estadística inferencial con R y Python
+
+Este es un submodulo que tiene como proposito el tener como biografia los scripts y notebooks que estan almancenados en el repositorio original de [estadistica-inferencial](https://github.com/joanby/estadistica-inferencial).
